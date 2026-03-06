@@ -20,8 +20,6 @@ Main interests:
 
 ## 🛠 Technologies
 
-## 🛠 Technologies
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -42,6 +40,14 @@ Car rental management system with backend services.
 ### Content Management System
 
 Backend based CMS system for managing content.
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak%20Aydın-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/burak-g%C3%BCnayd%C4%B1n-ba6484294/))
+
+[![Email](https://img.shields.io/badge/Email-burak@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brkgnydn9@gmail.com)
 
 ---
 
