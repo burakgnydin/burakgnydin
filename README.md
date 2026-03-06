@@ -43,11 +43,17 @@ Backend based CMS system for managing content.
 
 ---
 
-## 📫 Contact Me
+<h3>Connect With Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak%20Aydın-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/burak-g%C3%BCnayd%C4%B1n-ba6484294/))
+<p>
+<a href="https://www.linkedin.com/in/burak-g%C3%BCnayd%C4%B1n-ba6484294/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-burak@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brkgnydn9@gmail.com)
+<a href="mailto:brkgnydn9@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+</p>
 
 ---
 
