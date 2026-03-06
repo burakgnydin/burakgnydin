@@ -45,16 +45,16 @@ Backend based CMS system for managing content.
 
 ---
 
-## 🌐 Connect With Me
+<h3>Connect With Me</h3>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/burak-g%C3%BCnayd%C4%B1n-ba6484294/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Burak%20Günaydın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/burak-g%C3%BCnayd%C4%B1n-ba6484294/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:brkgnydn9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-brkgnydn9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </p>
