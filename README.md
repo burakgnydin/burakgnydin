@@ -53,10 +53,6 @@ Backend based CMS system for managing content.
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:brkgnydn9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
 </p>
 
 ---
