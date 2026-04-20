@@ -27,21 +27,6 @@ Main interests:
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### Gym Management System
-
-Backend management system for gym operations.
-
-### Rent A Car System
-
-Car rental management system with backend services.
-
-### Content Management System
-
-Backend based CMS system for managing content.
 
 ---
 
